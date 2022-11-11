@@ -1,0 +1,15 @@
+9259b6aca219442d071baf09d4de61a0 *DESCRIPTION
+beb27e5bbcf67d067e3cf381f4cb252d *NAMESPACE
+0c9758294d4382a650eee2cabc081393 *NEWS.md
+904fe5cdbf573866b5b8428e07c690c8 *R/fetch_mailchimp.R
+f88b7af121f72632f4c11e4a22bad4e3 *R/my_mailchimp_data.R
+aa380e1248e792cb7c521cd424bb83c8 *README.md
+77001896a77d1cb481ff42b2a5411b1a *build/vignette.rds
+78396bd13f9923ee28d90e5b07f5039e *data/my_mailchimp_data.RData
+57971d275377f1362e19d200d2a73f37 *inst/doc/tutorial.R
+e8896a780634de8975a37033d304ae97 *inst/doc/tutorial.Rmd
+3ae3515ab1e452e3fe65950f68ecc357 *inst/doc/tutorial.html
+20c0a7047892c53f5b8f8973a8e89bc8 *man/fetch_mailchimp.Rd
+0742904ce860b5a143d849fa0a4f5817 *man/my_mailchimp_data.Rd
+78396bd13f9923ee28d90e5b07f5039e *vignettes/my_mailchimp_data.RData
+e8896a780634de8975a37033d304ae97 *vignettes/tutorial.Rmd
